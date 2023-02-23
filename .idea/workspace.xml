@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa64303-b1b4-4c74-b034-b10d194614bc" name="Changes" comment="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/napier/sem2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DockerFile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/napier/sem2/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +48,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Docker.DockerFile">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem2.App" />
       <module name="setMethods3" />
@@ -66,8 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DockerFile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="DockerFile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.DockerFile" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -80,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677191173358</updated>
-      <workItem from="1677191174423" duration="408000" />
+      <workItem from="1677191174423" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
       <created>1677191308266</created>
@@ -89,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677191308266</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677191638431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677191638431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
