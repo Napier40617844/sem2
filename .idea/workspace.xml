@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa64303-b1b4-4c74-b034-b10d194614bc" name="Changes" comment="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
-      <change afterPath="$PROJECT_DIR$/DockerFile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677191173358</updated>
-      <workItem from="1677191174423" duration="1078000" />
+      <workItem from="1677191174423" duration="3027000" />
     </task>
     <task id="LOCAL-00001" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
       <created>1677191308266</created>
@@ -109,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677191638431</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677192382147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677192382147</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677192971721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677192971721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
