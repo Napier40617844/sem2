@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daa64303-b1b4-4c74-b034-b10d194614bc" name="Changes" comment="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+    <list default="true" id="daa64303-b1b4-4c74-b034-b10d194614bc" name="Changes" comment="Adding 2 more badges&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -52,7 +57,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Docker.DockerFile">
+  <component name="RunManager" selected="Docker.Docker Image">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.napier.sem2.App" />
       <module name="setMethods3" />
@@ -66,6 +71,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="mongo:latest" />
+          <option name="containerName" value="" />
+          <option name="commandLineOptions" value="-p 27000:27017" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <configuration name="DockerFile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
       <deployment type="dockerfile">
         <settings>
@@ -74,12 +89,17 @@
       </deployment>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
+      <deployment type="docker-image" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
       <deployment type="dockerfile" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Docker Image" />
         <item itemvalue="Docker.DockerFile" />
         <item itemvalue="Application.App" />
       </list>
@@ -93,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677191173358</updated>
-      <workItem from="1677191174423" duration="3027000" />
+      <workItem from="1677191174423" duration="3992000" />
     </task>
     <task id="LOCAL-00001" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
       <created>1677191308266</created>
@@ -123,7 +143,35 @@
       <option name="project" value="LOCAL" />
       <updated>1677192971721</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677231960767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677231960767</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677232007640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677232007640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding badge&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677232105162</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677232105162</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding 2 more badges&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677232277907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677232277907</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +179,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
-    <option name="LAST_COMMIT_MESSAGE" value="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
+    <MESSAGE value="Adding badge&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
+    <MESSAGE value="Adding 2 more badges&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 2 more badges&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
   </component>
 </project>
