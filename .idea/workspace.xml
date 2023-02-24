@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daa64303-b1b4-4c74-b034-b10d194614bc" name="Changes" comment="Pulling Mongo 1st Time&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
+    <list default="true" id="daa64303-b1b4-4c74-b034-b10d194614bc" name="Changes" comment="Update the App&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677191173358</updated>
-      <workItem from="1677191174423" duration="4294000" />
+      <workItem from="1677191174423" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="first Commit - retake 5&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
       <created>1677191308266</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677232983879</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update the App&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk">
+      <created>1677233201439</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677233201439</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +205,7 @@
     <MESSAGE value="Adding badge&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
     <MESSAGE value="Adding 2 more badges&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
     <MESSAGE value="Pulling Mongo 1st Time&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pulling Mongo 1st Time&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
+    <MESSAGE value="Update the App&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the App&#10;abdulah alawaji&#10;40617844@live.napier.ac.uk" />
   </component>
 </project>
